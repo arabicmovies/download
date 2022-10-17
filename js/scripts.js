@@ -67,7 +67,7 @@
             // when window is <= 767px
             767: {
                 slidesPerView: 2,
-                spaceBetween: 20
+                spaceBetween: 1
             },
             // when window is <= 991px
             991: {
